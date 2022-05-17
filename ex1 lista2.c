@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Fa�a um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias. Defina que todos os meses t�m 30 dias.
+/*Faça uma função que leia a idade de uma pessoa expressa em anos,  meses e dias e retorne a função principal o valor expresso apenas em dias.
+Defina que todos os meses têm 30 dias. */
 
 void idade();
 
